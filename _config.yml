@@ -1,4 +1,4 @@
+markdown: kramdown
 theme: minima
-title: Portifólio
-author: Pedro Sarmento
-description: Portifólio com projetos e experiências
+sass:
+  style: compressed
