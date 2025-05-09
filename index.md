@@ -11,7 +11,6 @@ Olá, meu nome é Pedro, tenho 18 anos e sou uma pessoa determinada, com grande 
 
 ---
 
-<div class="card">
 
 ## Um pouco mais sobre Pedro Sarmento
 
