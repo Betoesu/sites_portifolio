@@ -9,4 +9,4 @@ Olá, meu nome é Pedro, tenho 18 anos e sou uma pessoa determinada, com grande 
 ---
 
 ## Um pouco mais sobre Pedro Sarmento
-[Google_Sites](https://sites.google.com/view/pedrosarmentoportifolio?usp=sharing)
+- [Meu Portifólio](https://sites.google.com/view/pedrosarmentoportifolio?usp=sharing)
