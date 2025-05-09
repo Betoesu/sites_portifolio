@@ -17,4 +17,5 @@ Olá, meu nome é Pedro, tenho 18 anos e sou uma pessoa determinada, com grande 
 
 - 🌐 [Meu Portifólio](https://sites.google.com/view/pedrosarmentoportifolio?usp=sharing)
 
-</div>
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
